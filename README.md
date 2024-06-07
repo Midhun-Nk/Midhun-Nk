@@ -35,8 +35,6 @@ src="https://img.shields.io/github/followers/Midhun-Nk?logo=github&style=for-the
 
 <a href="http://www.github.com/Midhun-Nk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Midhun-Nk&stroke=ffffff&background=27272a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Midhun-Nk"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Midhun-Nk&bg_color=27272a&color=ffffff&line=0891b2&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/Midhun-Nk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midhun-Nk&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
