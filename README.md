@@ -1,8 +1,11 @@
+<img align="center" alt="Coding"  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif"/>
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Midhun NK
 =================================================================================================================================
 
 App & Web Developer 🖥️
 -----------------------
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
 
 I'm a developer who loves creating apps and websites. With every click and tap, I blend practicality with beauty. From smooth apps to eye-catching websites, I make digital spaces that people enjoy using. In this ever-changing world of tech, I'm here to build the future, one line of code at a time.
 
