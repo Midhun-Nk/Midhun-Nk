@@ -34,9 +34,9 @@ I'm a developer who loves creating apps and websites. With every click and tap, 
 <tr border="none">
 <td width="50%" align="center">
   
-  <img width=690 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=690 src="https://github-readme-stats-salesp07.vercel.app/api?username=Midhun-Nk&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br></br>
-  <img width=690 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=690 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Midhun-Nk&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </td>
 <td width="50%" align="center">
 
