@@ -107,9 +107,6 @@
 
 
 ## 📊 GitHub Stats
-![Midhun-Nk's Stats](https://github-readme-stats.vercel.app/api?username=Midhun-Nk&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![Midhun-Nk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Midhun-Nk&theme=dark&hide_border=true)
-![Midhun-Nk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Midhun-Nk&theme=dark&show_icons=true&hide_border=true&layout=compact)
 <h3 align="center">🔥 My GitHub Stats</h3>
 
 <p align="center">
@@ -117,15 +114,15 @@
 <tr>
 <td width="50%" align="center">
 
-<img width=700 src="https://github-readme-stats-salesp07.vercel.app/api?username=Midhun-Nk&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+![Midhun-Nk's Stats](https://github-readme-stats.vercel.app/api?username=Midhun-Nk&theme=dark&show_icons=true&hide_border=true&count_private=true)
 <br/><br/>
-<img width=700 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Midhun-Nk&count_private=true&theme=react&border_radius=10" />
+![Midhun-Nk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Midhun-Nk&theme=dark&hide_border=true)
 
 </td>
 
 <td width="50%" align="center">
 
-<img width=380 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midhun-Nk&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20Languages" />
+<img width=380 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midhun-Nk&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=141414&bg_color=141414&hide_border=true&locale=en&custom_title=Top%20Languages" />
 
 </td>
 </tr>
