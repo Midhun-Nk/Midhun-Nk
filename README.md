@@ -22,10 +22,48 @@
     <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
   </p>
 
+<h3>🌐 Socials</h3>
+  
+<p align="left">
+  <a href="https://dev.to/midhun_nk">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://discord.com/users/midhun_nk">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Midhun-Nk">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/mike_coding_">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/midhun-nk">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://stackoverflow.com/users/midhun_nk">
+    <img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/Midhun_Nk_">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://youtube.com/@CodingMiKE_">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
+
   <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 <br clear="all" />
+
 
 ## 🛠️ Skills
 <p align="center">
@@ -66,23 +104,12 @@
 
 ---
 
-## 🌐 Socials
 
-<p align="left">
-  <a href="https://dev.to/midhun_nk"><img src="https://skillicons.dev/icons?i=devto" width="40" /></a>
-  <a href="https://discord.com/users/midhun_nk"><img src="https://skillicons.dev/icons?i=discord" width="40" /></a>
-  <a href="https://github.com/Midhun-Nk"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
-  <a href="https://instagram.com/mike_coding_"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
-  <a href="https://linkedin.com/in/midhun-nk"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-  <a href="https://stackoverflow.com/users/midhun_nk"><img src="https://skillicons.dev/icons?i=stackoverflow" width="40" /></a>
-  <a href="https://x.com/Midhun_Nk_"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
-  <a href="https://youtube.com/@CodingMiKE_"><img src="https://skillicons.dev/icons?i=youtube" width="40" /></a>
-</p>
-
----
 
 ## 📊 GitHub Stats
-
+![Midhun-Nk's Stats](https://github-readme-stats.vercel.app/api?username=Midhun-Nk&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Midhun-Nk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Midhun-Nk&theme=dark&hide_border=true)
+![Midhun-Nk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Midhun-Nk&theme=dark&show_icons=true&hide_border=true&layout=compact)
 <h3 align="center">🔥 My GitHub Stats</h3>
 
 <p align="center">
@@ -100,7 +127,7 @@
 
 <img width=380 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midhun-Nk&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20Languages" />
 
-</td>a
+</td>
 </tr>
 </table>
 </p>
