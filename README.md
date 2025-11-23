@@ -25,7 +25,7 @@
 <h3>🌐 Socials</h3>
   
 <p align="left">
-  <a href="https://dev.to/midhun_nk">
+  <a href="https://dev.to/midhun-nk">
     <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
   </a>
 
@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://instagram.com/mike_coding_">
+  <a href="https://instagram.com/mike.devlogs">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
   </a>
 
@@ -45,15 +45,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://stackoverflow.com/users/midhun_nk">
+  <a href="https://stackoverflow.com/users/midhun-nk">
     <img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://x.com/Midhun_Nk_">
+  <a href="https://x.com/mike_devlogs">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://youtube.com/@CodingMiKE_">
+  <a href="https://youtube.com/EduMikeStudio>
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white" />
   </a>
 </p>
