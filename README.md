@@ -8,12 +8,14 @@
 <h3 align="left">Full Stack Developer | MERN • Python • Flutter </h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
 
 I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
 From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
 
 ---
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
+
 
  About Me
 
@@ -25,11 +27,10 @@ From sleek UIs to scalable APIs, I build digital products that feel fast, intuit
   <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
 </p>
 
----
+
 
 <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Views"/>
 
----
 
 ## 🛠️ Skills
 
