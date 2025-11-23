@@ -34,9 +34,29 @@ From sleek UIs to scalable APIs, I build digital products that feel fast, intuit
 
 ## 🛠️ Skills
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,flutter,dart,java,python,git,html,css,firebase,figma,gcp,c,cpp" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3>💻 Programming Languages</h3>
+      <img src="https://skillicons.dev/icons?i=js,python,java,dart,c,cpp" />
+    </td>
+    <td width="50%" align="center">
+      <h3>📚 Frameworks & Libraries</h3>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🗄️ Databases</h3>
+      <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+    </td>
+    <td width="50%" align="center">
+      <h3>🧰 Tools & Platforms</h3>
+      <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,html,css" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
