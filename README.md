@@ -31,31 +31,36 @@ From sleek UIs to scalable APIs, I build digital products that feel fast, intuit
 
 <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Views"/>
 
-
 ## 🛠️ Skills
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <h3>💻 Programming Languages</h3>
-      <img src="https://skillicons.dev/icons?i=js,python,java,dart,c,cpp" />
-    </td>
-    <td width="50%" align="center">
-      <h3>📚 Frameworks & Libraries</h3>
-      <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>🗄️ Databases</h3>
-      <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
-    </td>
-    <td width="50%" align="center">
-      <h3>🧰 Tools & Platforms</h3>
-      <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,html,css" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%">
+
+  <!-- Programming Languages -->
+  <div style="flex: 0 0 48%; text-align: center; margin-bottom: 20px;">
+    <h3>💻 Programming Languages</h3>
+    <img src="https://skillicons.dev/icons?i=js,python,java,dart,c,cpp" />
+  </div>
+
+  <!-- Frameworks -->
+  <div style="flex: 0 0 48%; text-align: center; margin-bottom: 20px;">
+    <h3>📚 Frameworks & Libraries</h3>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter" />
+  </div>
+
+  <!-- Databases -->
+  <div style="flex: 0 0 48%; text-align: center; margin-bottom: 20px;">
+    <h3>🗄️ Databases</h3>
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+  </div>
+
+  <!-- Tools -->
+  <div style="flex: 0 0 48%; text-align: center; margin-bottom: 20px;">
+    <h3>🧰 Tools & Platforms</h3>
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,html,css" />
+  </div>
+
+</div>
+
 
 
 ---
