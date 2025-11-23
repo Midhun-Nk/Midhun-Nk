@@ -14,7 +14,7 @@ From sleek UIs to scalable APIs, I build digital products that feel fast, intuit
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
+<!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/> -->
 
 
  About Me
@@ -29,38 +29,43 @@ From sleek UIs to scalable APIs, I build digital products that feel fast, intuit
 
 
 
-<img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Views"/>
+ <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Views"/> 
 
 ## 🛠️ Skills
+<p align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>💻 Programming Languages</h3>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%">
+ <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript" />
+<br/><br/>
 
-  <!-- Programming Languages -->
-  <div style="flex: 0 0 48%; text-align: center; margin-bottom: 20px;">
-    <h3>💻 Programming Languages</h3>
-    <img src="https://skillicons.dev/icons?i=js,python,java,dart,c,cpp" />
-  </div>
+</td>
 
-  <!-- Frameworks -->
-  <div style="flex: 0 0 48%; text-align: center; margin-bottom: 20px;">
-    <h3>📚 Frameworks & Libraries</h3>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter" />
-  </div>
+<td width="50%" align="center">
+   <h3>📚 Frameworks & Libraries</h3>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
+</td>
 
-  <!-- Databases -->
-  <div style="flex: 0 0 48%; text-align: center; margin-bottom: 20px;">
-    <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
-  </div>
 
-  <!-- Tools -->
-  <div style="flex: 0 0 48%; text-align: center; margin-bottom: 20px;">
+
+</tr>
+<tr>
+<td width="50%" align="center">
+  <h3>🗄️ Databases</h3>
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,html,css" />
-  </div>
-
-</div>
-
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
+</td>
+</tr>
+</table>
+</p>
 
 
 ---
