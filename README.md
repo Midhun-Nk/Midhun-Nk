@@ -103,27 +103,15 @@
 
 
 ## 📊 GitHub Stats
-<h3 align="center">🔥 My GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Midhun-Nk&show_icons=true&theme=dark&hide_border=true&t=1" height="160" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midhun-Nk&layout=compact&theme=dark&hide_border=true&langs_count=8&t=1" height="160" alt="Languages" />
+</div>
 
-<p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Midhun-Nk&theme=dark&show_icons=true&hide_border=true" alt="Midhun-Nk's Stats" />
-<br/><br/>
-<img src="https://streak-stats.demolab.com/?user=Midhun-Nk&theme=dark&hide_border=true" alt="Midhun-Nk's Streak" />
-
-</td>
-
-<td width="50%" align="center">
-
-<img width=380 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midhun-Nk&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=141414&bg_color=141414&hide_border=true&locale=en&custom_title=Top%20Languages" />
-
-</td>
-</tr>
-</table>
-</p>
+<div align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true&t=1" alt="Streak" />
+</div>
 
 ---
 
