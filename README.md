@@ -110,9 +110,9 @@
 <tr>
 <td width="50%" align="center">
 
-![Midhun-Nk's Stats](https://github-readme-stats.vercel.app/api?username=Midhun-Nk&theme=dark&show_icons=true&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Midhun-Nk&theme=dark&show_icons=true&hide_border=true" alt="Midhun-Nk's Stats" />
 <br/><br/>
-![Midhun-Nk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Midhun-Nk&theme=dark&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=Midhun-Nk&theme=dark&hide_border=true" alt="Midhun-Nk's Streak" />
 
 </td>
 
