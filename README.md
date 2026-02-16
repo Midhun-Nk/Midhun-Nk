@@ -103,14 +103,10 @@
 
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Midhun-Nk&show_icons=true&theme=dark&hide_border=true&t=1" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midhun-Nk&layout=compact&theme=dark&hide_border=true&langs_count=8&t=1" height="160" alt="Languages" />
-</div>
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true&t=1" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
 ---
